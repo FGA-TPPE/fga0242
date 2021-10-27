@@ -1,0 +1,12 @@
+Testes passando (50%)? 20% 
+  -> Um teste passando apenas. 
+
+
+Formatos dos arquivods (50%)? 0% 
+  -> Não foi possível gerar arquivos de saida.
+
+Nota final: 20%
+
+Comentarios:
+  Enfrentei dificuldades na execução do programa. Solicito que o grupo entre em
+contato para marcarmos uma apresentação do trabalho. 
