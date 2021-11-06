@@ -6,10 +6,10 @@
 	* Gustavo Barbosa Carvalho (16/0007780)
 
 
-## Execução do Trabalho Final:
+Execução do Trabalho:
 ```
-* Entre na pasta raiz do projeto fga0242/Trabalho Final TDD
-   * Usando Ubuntu, execute: ./run-ubuntu
+* Entre na pasta raiz do projeto
+   * Usando Ubuntu, rode: ./run-ubuntu
 ```
 
 Caso obtenha o seguinte resultado:
@@ -31,30 +31,29 @@ Seguem evidências:
 * Teste de arquivo não encontrado:
 
 <p align="center">
-  <img src="./Trabalho Final TDD/img/teste_arquivo_nao_encontrado.png">
+  <img src="./img/teste_arquivo_nao_encontrado.png">
 </p>
 
 * Teste delimitador inválido:
 
 <p align="center">
-  <img src="./Trabalho Final TDD/img/teste_delimitador_invalido.png">
+  <img src="./img/teste_delimitador_invalido.png">
 </p>
 
 * Teste disposição inválida:
 
 <p align="center">
-  <img src="./Trabalho Final TDD/img/teste_disposicao_invalida.png">
+  <img src="./img/teste_disposicao_invalida.png">
 </p>
 
 * Teste arquivo sem permissão de escrita:
 
 <p align="center">
-  <img src="./Trabalho Final TDD/img/teste_sem_permissao.png">
+  <img src="./img/teste_sem_permissao.png">
 </p>
 
 * Teste processamento realizado com sucesso:
 
 <p align="center">
-  <img src="./Trabalho Final TDD/img/teste_processado_sucesso.png">
+  <img src="./img/teste_processado_sucesso.png">
 </p>
-
